@@ -8,7 +8,7 @@ I'm FrontEnd Developer
 - 🌱 I’m currently learning everything  😄
 - 👯 I’m looking to collaborate on more open source projects.
 🔗 &nbsp;*Connect with me*
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-durmu%C5%9F-react-developer/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hc-react-js/)
 &nbsp;
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mdurmus9114@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/M-Durmus) 
