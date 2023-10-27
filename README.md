@@ -1,4 +1,4 @@
-### Hey,  I'm Halil Can
+### Hi,  I'm Halil Can
 
 <h1 align='center'> I'm Frontend Developer</h1>
 <br>
